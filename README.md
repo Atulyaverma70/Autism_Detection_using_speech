@@ -1,5 +1,5 @@
 
-# Autism-Detection
+# Autism-Detection using speech
 * This project uses MFCC features, which are extracted from audio recordings, to train multiple models to predict autism.
 * The python file stores the trained models as a pkl file, which can later be used in predictor.py (CLI) or ui.py (Streamlit based UI).
 * The Models implemented are Random Forest, SVM, Naive Bayes and Artificial Neural Network.
